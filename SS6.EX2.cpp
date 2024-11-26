@@ -27,5 +27,6 @@ int main(){
 			i++;
 		}
 		printf("So cac so le la: %d", i);
+		printf("So cac so chan la: %d\n", 5-i);
 	return 0;
 }
